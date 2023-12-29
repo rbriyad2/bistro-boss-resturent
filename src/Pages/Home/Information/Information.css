@@ -1,0 +1,9 @@
+.infobg{
+    background-image: url(../../../assets/home/chef-service.jpg);
+    background-position: fixed;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 80px;
+    margin: 70px 0;
+}
